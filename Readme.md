@@ -84,10 +84,10 @@ Here are some visuals of the game in action:
 ![Game Start](Output1.png)
 
 ### Screenshot 2: Betting Prompt
-![Betting Prompt](Output2.png)
+![Race in Progress](Output3.png)
 
 ### Screenshot 3: Race in Progress
-![Race in Progress](Output3.png)
+![Betting Prompt](Output2.png)
 
 ---
 
