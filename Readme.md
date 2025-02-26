@@ -81,13 +81,13 @@ You can tweak the game to make it even more fun:
 Here are some visuals of the game in action:
 
 ### Screenshot 1: Game Start
-![Game Start](Output 1.png)
+![Game Start](Output1.png)
 
 ### Screenshot 2: Betting Prompt
-![Betting Prompt](Output 2.png)
+![Betting Prompt](Output2.png)
 
 ### Screenshot 3: Race in Progress
-![Race in Progress](Output 3.png)
+![Race in Progress](Output3.png)
 
 ---
 
